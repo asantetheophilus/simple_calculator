@@ -20,3 +20,4 @@ It performs all arithmetic operations using if-elif-else logic.
 
 ## Author
 Built by a Future Tech learning Python 💻"# simple_calculator" 
+"# Simple_Calculator" 
